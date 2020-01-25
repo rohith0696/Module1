@@ -98,6 +98,6 @@ Image source is obtained from [here](https://marvelcinematicuniverse.fandom.com/
 
 Some of the information is taken from [here](https://en.wikipedia.org/wiki/Avengers_(comics))
 
-This GitHub page is created by *Rohith Chttimalla
+This GitHub page is created by *Rohith Chttimalla*
 
 To follow my GitHub Page [click here](https://github.com/rohith0696)
