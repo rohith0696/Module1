@@ -1,9 +1,15 @@
-# AVENGERS 
+
+
+# <p align=center>AVENGERS 
+
 ### *Earth's Mightiest Heroes* 
 
 The Avengers are a fictional team of superheroes appearing in American comic books published by Marvel Comics. The team made its debut in The Avengers, created by writer-editor Stan Lee and artist/co-plotter Jack Kirby. The Avengers is Lee and Kirby's renovation of a previous superhero team, All-Winners Squad, who appeared in comic books series published by Marvel Comics' predecessor Timely Comics. 
 
 The above information is from [here](https://en.wikipedia.org/wiki/Avengers_(comics))
+
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 
 Here I'm describing about some of the heroes.
 
