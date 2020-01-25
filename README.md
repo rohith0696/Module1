@@ -1,8 +1,8 @@
 
 
-# <p align=center>AVENGERS 
+# AVENGERS 
 
-### <p align=center> *Earth's Mightiest Heroes* 
+### *Earth's Mightiest Heroes* 
 
 The Avengers are a fictional team of superheroes appearing in American comic books published by Marvel Comics. The team made its debut in The Avengers, created by writer-editor Stan Lee and artist/co-plotter Jack Kirby. The Avengers is Lee and Kirby's renovation of a previous superhero team, All-Winners Squad, who appeared in comic books series published by Marvel Comics' predecessor Timely Comics. 
 
@@ -63,7 +63,7 @@ Black Widow aka Natasha Romanoff a Russian spy, an antagonist of the superhero I
 ### STRENGTHS
 * Super Spy
 * Brought the team(Avengers) together
-* Trained Martial arts
+* Trained in Martial arts
 
 ![BLACK WIDOW](https://www.nme.com/wp-content/uploads/2018/02/Black-Widow-Avengers-696x442.jpg)
 
