@@ -8,7 +8,7 @@ The Avengers are a fictional team of superheroes appearing in American comic boo
 
 The above information is from [here](https://en.wikipedia.org/wiki/Avengers_(comics))
 
-<img align="right" width="100" height="100" src="https://specials-images.forbesimg.com/imageserve/5cc0c243a7ea436c70f3ba2f/960x0.jpg?fit=scale">
+<img align="right" width="400" height="200" src="https://specials-images.forbesimg.com/imageserve/5cc0c243a7ea436c70f3ba2f/960x0.jpg?fit=scale">
 
 
 Here I'm describing about some of the heroes.
