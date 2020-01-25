@@ -2,7 +2,7 @@
 
 # <p align=center>AVENGERS 
 
-### *Earth's Mightiest Heroes* 
+### <p align=center> *Earth's Mightiest Heroes* 
 
 The Avengers are a fictional team of superheroes appearing in American comic books published by Marvel Comics. The team made its debut in The Avengers, created by writer-editor Stan Lee and artist/co-plotter Jack Kirby. The Avengers is Lee and Kirby's renovation of a previous superhero team, All-Winners Squad, who appeared in comic books series published by Marvel Comics' predecessor Timely Comics. 
 
